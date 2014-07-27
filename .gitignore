@@ -1,0 +1,6 @@
+# Directories
+app/bower_components/
+node_modules/
+build/
+.sass-cache/
+.tmp/

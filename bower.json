@@ -1,0 +1,21 @@
+{
+  "name": "A started project using AngularJS",
+  "version": "0.0.1",
+  "authors": [
+    "David Touzet <dtouzet@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.2.15",
+    "angular-route": "~1.2.15"
+  }
+}
