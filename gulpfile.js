@@ -12,7 +12,6 @@ var gulp = require('gulp'),
     jshint = require('gulp-jshint'),
     rev = require('gulp-rev'),
     connect = require('gulp-connect'),
-    less = require('gulp-less'),
     watch = require('gulp-watch');
 
 
